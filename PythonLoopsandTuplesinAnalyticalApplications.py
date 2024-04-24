@@ -23,4 +23,4 @@ def average_price(stock_data, stock_symbol, date1, date2):
         return total_price / count
 
 average = average_price(stock_data, stock_symbol, date1, date2)
-print(f"Average price for {stock_symbol} between {date1} and {date2}: ${average:.2f}")
+print(f"Average price for {stock_symbol} between {date1} and {date2}: ${average: }")

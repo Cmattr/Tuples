@@ -11,6 +11,6 @@ Product: {product}
 Quantity: {quantity} \n''')
 
 simplify(orders)
-print(simplify)
+
 
     
